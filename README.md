@@ -2,7 +2,7 @@
 
 **Duration:** ~30 minutes | **Level:** Beginner
 
-Get started with your first message exchange by using the UI in SAP Integration Suite, Advanced Event Mesh (AEM), and explore a different section through which you can exchange messages.
+Get started with your first message exchange by using the **Try Me!** UI in SAP Integration Suite, Advanced Event Mesh (AEM), and explore the different mechanisms through which you can exchange messages.
 
 ![Advanced Try Me](images/advanced-try-me.png)
 ---
@@ -11,7 +11,7 @@ Get started with your first message exchange by using the UI in SAP Integration 
 
 SAP Integration Suite, advanced event mesh is SAP's flagship event broker. 
 
-Actually, it is more than just that: it allows you to create meshes of event brokers and to use powerful eventing platform, operations and event management features. Explore these powerful features of SAP Integration Suite, advanced event mesh. 
+Actually, it is more than just that: it allows you to create meshes of event brokers and to use a powerful eventing platform, operations and event management features. Explore these features of SAP Integration Suite, advanced event mesh. 
 
 This short Developer Garage tutorial will start with the core event-driven architecture elements like queues and topics. 
 To dive deeper into the topic you can join our TechEd2026 hands-on session [IN163: Build your own event-driven scenario with advanced event mesh](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1786029069284001qBM4).
@@ -31,7 +31,7 @@ The password will be provided to you by the moderators.
 
 ## What You Will Learn
 
-- Access AEM and find do your first steps
+- Access AEM and do your first steps
 - What topics are and how they work in AEM
 - How to send and receive messages via the **Try Me!** page in the event broker service
 - The difference between Direct and Persistent message delivery modes
@@ -61,7 +61,7 @@ The password will be provided to you by the moderators.
 | Devtoberfest 2026: IntegrAItion - Event-Driven Intelligence | [link](https://www.youtube.com/watch?v=aUNHb-4qyDo) |
 | Devtoberfest 2026: Event Add-On for ERP - All you need to know about the new Event Studio | [link](https://www.youtube.com/watch?v=HyLYUZ7bcII) |
 | SAP Help | [link](https://help.pubsub.em.services.cloud.sap/Cloud/cloud-lp.htm) |
-| SAP Discovery Center - AEM | [link](://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh?region=all) |
+| SAP Discovery Center - AEM | [link](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh?region=all) |
 
 ## How to obtain support
 

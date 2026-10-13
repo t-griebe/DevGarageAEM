@@ -43,13 +43,13 @@ Check out the different areas in the **Advanced Event Mesh cockpit** , represent
 
 3. Click on `Cluster Manager`
 
-> Hint: if you don't see any broker, please uncheck Only show my services
-
 ![ex1-2](images/ex1-2.png)  
 
 4. Select the `Developer Garage` broker by clicking on it
 
 5. Click `Open Broker Manager`
+
+> Hint: The Broker Manager open in a new tab in your browser. Leave both tabs open, as we need to use both of them.
 
 ![ex1-3](images/ex1-3.png)  
 
@@ -72,11 +72,9 @@ On the left side of the screen are the main sections to navigate through:
 After completing these steps you will have created a queue in Advanced Event Mesh.
 
 1. Go back to the original tab in your browser and click on `Cluster Manager` on the left.
-2. In the All Services screen click on the `Developer Garage` Tile (eks-eu-central-1a)
+2. In the All Services screen click on the `Developer Garage` tile (eks-eu-central-1a)
 
-![ex1-2](images/ex1-2.png)  
-
-> HINT: If you cannot see the tiles, uncheck the Only show my services box
+![ex1-2](images/ex1-2.png)
 
 3. Press `Manage`
 
